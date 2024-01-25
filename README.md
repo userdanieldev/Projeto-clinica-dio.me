@@ -12,7 +12,11 @@ Desenvolver uma página web para uma clínica, utilizando os princípios básico
 
 ## Conclusão ✔️
 Deve conter os seguintes itens de navegação:
+
 -Página Principal
+
 -Sobre a clínica
+
 -Horário de Atendimento
+
 -Contato
